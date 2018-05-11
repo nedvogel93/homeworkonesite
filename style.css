@@ -1,0 +1,134 @@
+body
+  {font-family:Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+     width: 960px;
+     font-size: 18px;margin-left: auto;
+     margin-right: auto;
+    position: relative;
+    overflow: auto;}
+
+
+  
+div1 
+  {width:100%;
+  height:40px;
+  color: #777;
+  background-color: #ebebeb;
+  text-align: center;
+  position:absolute;
+  left: auto;
+  right:auto;
+  overflow: auto;
+  padding-top
+  }
+
+
+  nav 
+    {background-color:#ebebeb;
+      color: #777;
+      width: 100%;
+      text-align: center;
+      padding-top: 40px;
+      padding-bottom: 40px;
+   
+    }
+
+ 
+ section
+      {background-color:#ebebeb;
+        width: 495px;
+        text-align: center;
+        height:210px;
+       
+      }
+
+  article
+      {color: #ebebeb;
+      background: #777;
+       width: 495px;
+      text-align: center;
+      z-index: 1;
+      height:180px;
+      }
+
+
+    h3
+        {color: #777;
+        background:#ebebeb; 
+        width: 495px;
+        text-align:center;
+        }
+
+      p 
+        {color: #777;
+        background: #ebebeb;
+        width: 495px;
+        text-align:center;
+        padding-top:20px;
+       }
+        
+ aside
+      {background-color:#ebebeb ;
+        width: 420px;
+        text-align: center;
+        
+       }
+ 
+  
+      
+    
+    
+      
+ footer
+      {text-align: center;   
+       background-color:#ebebeb;
+       width 100%;}
+
+
+#body {position:relative;}
+      
+#box8 {
+  position: absolute;bottom:110px;
+  width:100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+#box3
+  {
+    position: absolute; top: 230px;
+   right:0;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    
+  }
+  #box4 {
+    position: absolute; top:230px;
+    padding-top: 40px;
+    padding-bottom: 10px}
+#navbox {
+  position: absolute; top:120px;
+  margin-top: -10px}
+#box1  {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+#box5 {
+  width: 475px;
+  margin-left: 10px;
+}
+#box7 {
+  width: 450px;
+  margin-left: 10px;
+  padding-top:18px;
+  padding-bottom:18px;
+  
+}  
+#boxp {
+  width: 450px;
+  margin-left: 10px;
+  padding-bottom: 18px;
+  padding-bottom: 18px;
+  border-color:#777;
+  position: absolute;bottom:15px;
+}
